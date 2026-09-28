@@ -1,0 +1,6 @@
+{
+  "name": "AI Interviewer",
+  "description": "Practice your technical and HR interviews with adaptive AI questions, instant evaluation, and detailed performance reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
